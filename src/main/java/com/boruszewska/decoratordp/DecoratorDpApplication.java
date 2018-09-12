@@ -5,22 +5,18 @@ import com.boruszewska.decoratordp.ShapeService.Circle;
 import com.boruszewska.decoratordp.ShapeService.Shape;
 import com.boruszewska.decoratordp.ShapeService.Square;
 
+import java.util.ArrayList;
+import java.util.List;
+
 public class DecoratorDpApplication {
 
   public static void main(String[] args) {
 
-    Shape circle = new Circle();
+    List<Shape> shapes = new ArrayList<Shape>();
+    shapes.add(new Circle());
+    shapes.add(new RedShapeDecorator(new Circle()));
+    shapes.add(new RedShapeDecorator(new Square()));
 
-    Shape redCircle = new RedShapeDecorator(new Circle());
-
-    Shape redSquare = new RedShapeDecorator(new Square());
-    System.out.println("Circle with normal border");
-    circle.draw();
-
-    System.out.println("\nCircle of red border");
-    redCircle.draw();
-
-    System.out.println("\nSquare of red border");
-    redSquare.draw();
+    shapes.stream().forEach(shape -> shape.draw());
   }
 }

@@ -14,7 +14,7 @@ public class RedShapeDecorator extends ShapeDecorator {
     }
 
     private void drawRedShape() {
-        System.out.println("Let's draw this shape in red!");
+        System.out.print("Let's draw this shape in red!");
     }
 
 

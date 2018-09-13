@@ -1,4 +1,4 @@
-package com.boruszewska.decoratordp.ShapeService;
+package com.boruszewska.decoratordp.ShapeExample.ShapeService;
 
 public class Circle implements Shape {
     public void draw() {

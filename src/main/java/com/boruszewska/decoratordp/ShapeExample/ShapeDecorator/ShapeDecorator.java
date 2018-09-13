@@ -1,6 +1,6 @@
-package com.boruszewska.decoratordp.ShapeDecorator;
+package com.boruszewska.decoratordp.ShapeExample.ShapeDecorator;
 
-import com.boruszewska.decoratordp.ShapeService.Shape;
+import com.boruszewska.decoratordp.ShapeExample.ShapeService.Shape;
 
 public abstract class ShapeDecorator implements Shape {
 

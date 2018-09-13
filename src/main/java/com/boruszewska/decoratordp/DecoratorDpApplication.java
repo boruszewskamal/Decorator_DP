@@ -1,9 +1,9 @@
 package com.boruszewska.decoratordp;
 
-import com.boruszewska.decoratordp.ShapeDecorator.RedShapeDecorator;
-import com.boruszewska.decoratordp.ShapeService.Circle;
-import com.boruszewska.decoratordp.ShapeService.Shape;
-import com.boruszewska.decoratordp.ShapeService.Square;
+import com.boruszewska.decoratordp.ShapeExample.ShapeDecorator.RedShapeDecorator;
+import com.boruszewska.decoratordp.ShapeExample.ShapeService.Circle;
+import com.boruszewska.decoratordp.ShapeExample.ShapeService.Shape;
+import com.boruszewska.decoratordp.ShapeExample.ShapeService.Square;
 
 import java.util.ArrayList;
 import java.util.List;

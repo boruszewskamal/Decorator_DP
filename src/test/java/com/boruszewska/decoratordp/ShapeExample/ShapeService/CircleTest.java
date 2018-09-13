@@ -1,4 +1,4 @@
-package com.boruszewska.decoratordp.ShapeService;
+package com.boruszewska.decoratordp.ShapeExample.ShapeService;
 
 import org.junit.After;
 import org.junit.Before;

@@ -1,6 +1,6 @@
-package com.boruszewska.decoratordp.ShapeDecorator;
+package com.boruszewska.decoratordp.ShapeExample.ShapeDecorator;
 
-import com.boruszewska.decoratordp.ShapeService.Shape;
+import com.boruszewska.decoratordp.ShapeExample.ShapeService.Shape;
 
 public class RedShapeDecorator extends ShapeDecorator {
     public RedShapeDecorator(Shape shape) {
@@ -14,7 +14,7 @@ public class RedShapeDecorator extends ShapeDecorator {
     }
 
     private void drawRedShape() {
-        System.out.print("Let's draw this shape in red!");
+        System.out.print("\nLet's draw this shape in red!");
     }
 
 

@@ -63,7 +63,7 @@
       <file leaf-file-name="TwoAddsTest.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/java/CalculationExample/TwoAddsTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="425">
+            <state relative-caret-position="287">
               <caret line="28" column="18" selection-start-line="28" selection-start-column="18" selection-end-line="28" selection-end-column="18" />
               <folding>
                 <element signature="e#289#290#0" expanded="true" />
@@ -482,16 +482,29 @@
       <option name="presentableId" value="Default" />
       <updated>1536866689037</updated>
       <workItem from="1536866691771" duration="582000" />
-      <workItem from="1537006227451" duration="1586000" />
+      <workItem from="1537006227451" duration="2546000" />
     </task>
     <servers />
   </component>
+  <component name="TestHistory">
+    <history-entry file="TwoMultipliesTest - 2018.09.15 at 12h 34m 32s.xml">
+      <configuration name="TwoMultipliesTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TwoMultipliesTest - 2018.09.15 at 12h 35m 20s.xml">
+      <configuration name="TwoMultipliesTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TwoAddsTest - 2018.09.15 at 12h 36m 53s.xml">
+      <configuration name="TwoAddsTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TwoAddsTest - 2018.09.15 at 12h 37m 17s.xml">
+      <configuration name="TwoAddsTest" configurationId="JUnit" />
+    </history-entry>
+  </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2168000" />
+    <option name="totallyTimeSpent" value="3128000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -504,8 +517,8 @@
       <window_info anchor="right" id="Maven Projects" order="3" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32905984" />
-      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32905984" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.32905984" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24966443" />
@@ -697,7 +710,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/CalculationExample/TwoAddsTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="425">
+        <state relative-caret-position="287">
           <caret line="28" column="18" selection-start-line="28" selection-start-column="18" selection-end-line="28" selection-end-column="18" />
           <folding>
             <element signature="e#289#290#0" expanded="true" />
